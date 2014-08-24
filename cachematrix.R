@@ -40,4 +40,4 @@ cacheSolve <- function(x, ...) {
         x$setinv(m)                             ## inverse is saved into special "matrix"
         m                                       ## inverse is output
         
-}
+} 
